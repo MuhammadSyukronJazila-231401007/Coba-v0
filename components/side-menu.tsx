@@ -27,9 +27,11 @@ export default function SideMenu({ isOpen, onClose }: SideMenuProps) {
     { name: "Tentang Kami", href: "/about" },
     { name: "Direktori", href: "/direktori" },
     { name: "Media", href: "/media" },
-    { name: "Berita", href: "/news" },
+    { name: "Data Ruang Pertemuan", href: "/pertemuan" },
     { name: "Galeri", href: "/gallery" },
-    { name: "Kontak", href: "/contact" },
+    { name: "GIPI Berbagi", href: "/berbagi" },
+    { name: "Calender Event", href: "/kalender" },
+    { name: "Hubungi Kami", href: "/kontak" },
   ]
 
   return (

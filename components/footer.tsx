@@ -8,12 +8,11 @@ export default function Footer() {
     { name: "Tentang Kami", href: "/about" },
     { name: "Direktori", href: "/direktori" },
     { name: "Media", href: "/media" },
-    { name: "Galeri", href: "/galeri" },
-    { name: "Kontak", href: "/contact" },
-    { name: "Kebijakan Privasi", href: "/privacy" },
-    { name: "Syarat & Ketentuan", href: "/terms" },
-    { name: "GIPI Package", href: "/package" },
-    { name: "Kebijakan Refund", href: "/refund" },
+    { name: "Data Ruang Pertemuan", href: "/pertemuan" },
+    { name: "Galeri", href: "/gallery" },
+    { name: "GIPI Berbagi", href: "/berbagi" },
+    { name: "Calender Event", href: "/kalender" },
+    { name: "Hubungi Kami", href: "/kontak" },
   ];
 
   const partnerLinks = [
